@@ -1,10 +1,10 @@
-package rummy.ai;
+package main.java.rummy.ai;
 
 import java.util.Random;
-import rummy.game.domain.Player;
-import rummy.game.domain.State;
-import rummy.game.domain.meld.Meld;
-import rummy.game.domain.move.Move;
+import main.java.rummy.game.domain.Player;
+import main.java.rummy.game.domain.State;
+import main.java.rummy.game.domain.meld.Meld;
+import main.java.rummy.game.domain.move.Move;
 
 /**
  * Represents the Information Set Motne Carlo tree search (ISMCTS).
