@@ -1,8 +1,8 @@
 package main.java.rummy.ai;
 
 
-import rummy.game.domain.Player;
-import rummy.game.domain.move.Move;
+import main.java.rummy.game.domain.Player;
+import main.java.rummy.game.domain.move.Move;
 
 /**
  * Represents a node in the search tree.
