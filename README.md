@@ -29,4 +29,3 @@ A simple user interface for observing gameplay between players and the Monte Car
 
 ### 4. **Game Entrypoint**
 - `PlayGame`: The main class that sets up and initiates the game.
-```java
