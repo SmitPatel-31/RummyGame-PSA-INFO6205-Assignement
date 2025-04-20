@@ -3,7 +3,7 @@
 
 This project implements a simplified Rummy game with decision-making powered by **Information Set Monte Carlo Tree Search (ISMCTS)**, designed for a **Data Structures and Algorithms** course. The goal is to simulate intelligent move planning without relying on a full AI system.
 
-## 📚 Project Structure
+## Project Structure
 
 The system is modularized into three main components:
 
