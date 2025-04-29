@@ -14,7 +14,7 @@ import main.java.rummy.game.ui.AIvsPlayer_UI;
 /**
  * The main class used to run the application and select the game mode.
  */
-public class PlayGame {
+public class playGame {
     
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
