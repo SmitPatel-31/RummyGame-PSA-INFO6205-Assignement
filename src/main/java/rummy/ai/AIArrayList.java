@@ -3,10 +3,6 @@ package main.java.rummy.ai;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * A light implementation of the ArrayList.
- * @param <E> the type of objects in this list
- */
 public class AIArrayList<E> {
 
     private Object[] array;
@@ -18,7 +14,7 @@ public class AIArrayList<E> {
     }
 
     public void add(E addition) {
-        if (this.index == this.array.length) { // If the array is full, increase its size
+        if (this.index == this.array.length) { // If array is full, increase its size
             increaseSize();
         }
 
